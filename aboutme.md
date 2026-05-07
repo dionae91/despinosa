@@ -9,25 +9,21 @@ subtitle: academic
 
 The Michelle Bowman Underwood Department of Modern Languages and Literatures
 University of Miami, Coral Gables, Miami, Florida
-
 Last updated 02/2024
-
 ORCID: http://orcid.org/0000-0002-5745-798X 
+
 
 
 <sub>EDUCATION</sub> 
 
-ABD, Ph.D. in Literary, Cultural, and Linguistic Studies (Spanish), The Michelle Bowman 
-Underwood Department of Modern Languages and Literatures, University of Miami, Miami, Florida. 
-Expected dissertation defense: May 2025,
-
+Ph.D. in Literary, Cultural, and Linguistic Studies (Spanish), The Michelle Bowman Underwood Department of Modern Languages and Literatures, University of Miami, Miami, Florida. Dissertation defense: May 2026
 Dissertation Movements of Contemporary Documentary Theater in the Digital Era. The case of Cuba and Puerto Rico
 Dissertation Committee
+Dr. Lillian Manzor (Chair, Professor of Spanish)
+Dr. Logan Connors (Chair of the Department, Professor of French)
+Dr. Allison Schifani (Associate Professor of Modern Languages and Literatures)  
+Dr. Terri Francis (Associate Professor of Cinematic Arts, School of Communication, UM)
 
-- Dr. Lillian Manzor (Chair, Professor of Spanish)
-- Dr. Logan Connors (Chair of the Department, Professor of French)
-- Dr. Allison Schifani (Associate Professor of Modern Languages and Literatures)  
-- Dr. Terri Francis (Associate Professor of Cinematic Arts, School of Communication, UM)
 
 M.A. in Cultural Studies and Literature (Spanish), Department of Languages, Literatures and 
 Cultures, 2018- 2020, University at Albany, SUNY, Albany, NY, United States
@@ -41,22 +37,18 @@ Hurtado University, Santiago de Chile, Chile
 
 <sub>ACADEMIC EMPLOYMENT</sub> 
 
-September 2020-present 
-2021-2022	Teaching Assistant	
-2020-2021	Research Assistant, for the Cuban Theater Digital Archive (CTDA)
+September 2020- 
+Teaching Assistant, 
+Research Assistant, The Michelle Bowman Underwood Department of Modern Languages and Literatures, University of Miami, Miami, United States for the Cuban Theater Digital Archive (CTDA), and the Institute of Advance Study of the Americas (UMIA) 
 
 Teaching Assistant, 
 August 2018- July 2020
-Research Assistant, Department of Languages, Literatures, & Cultures, University at Albany, 
-SUNY, NY, United States.  
-
-Assistant with projects and research about Latin-American film, performance, culture, and 
-literature with Dr. Ilka Kressner. 
-
+Research Assistant, Department of Languages, Literatures, & Cultures, University at Albany, SUNY, NY, United States.  
+Assistant with projects and research about Latin-American film, performance, culture, and literature with Dr. Ilka Kressner. 
 
 September 2013 - July 2014 
-Assistant student, Santiago Alvarez’s Chair of Cinematographic Journalism, Communication 
-Faculty, University of Havana and Cuban Institute of Cinematographic Arts and Industry (ICAIC), Havana, Cuba. Mentoring one of the talks about Cuban Documentary in the Special Period. 
+Assistant student, Santiago Alvarez’s Chair of cinematographic journalism, Communication Faculty, University of Havana and Cuban Institute of Cinematographic Arts and Industry (ICAIC), Havana, Cuba. Mentoring one of the talks about Cuban Documentary in the Special Period. 
+
 
 
 <sub>RESEARCH INTERESTS</sub> 
@@ -107,6 +99,9 @@ Journalism Pieces
 
 <sub>HONORS AND AWARDS</sub> 
 
+
+Graduate Research Goizueta Fellowship, Cuban Heritage Collection 2024-2025, University of Miami, Coral Gables, FL. June 2024-Agugust 2024. 
+
 Institute for Advanced Study of the Americas (UMIA) Distinguished Fellowship 2023-2024, 
 University of Miami, Coral Gables, FL, August 2023- May 2024. 
 
@@ -154,6 +149,12 @@ University of Havana and Cuban Institute of Cinematographic Arts and Industry (I
 
 <sub>CONFERENCES</sub>  
 
+“Performance during Pandemic Times: Mutation of a Play in Caridad Svich’s ‘The Little Hours’ 
+(2020)”, Session Hispanic Studies: Spanish American, Kentucky Foreign Language Conference, April 2024
+
+Graduate Student Lead and abstract review process for the Tri-Conference 
+22nd Annual Tri-University Graduate Student Conference on Latin America and the Caribbean organized by Florida International University, Florida Atlantic University and University of Miami, March 2024
+
 “Issues and Features with the Platform: Performance during Pandemic Times,” LASA 2023
 Hybrid Congress: América Latina y el Caribe: Pensar, Representar y Luchar por los Derechos. 24–27 May 2023
 
@@ -195,10 +196,13 @@ Film studies/ Performance Studies/ Digital Humanities/ Twentieth- and Twenty-Fir
 Teaching Assistant
 The Michelle Bowman Underwood Department of Modern Languages and Literatures University of Miami 
 Spanish Tutoring for all levels 
-SPA 100 –Elementary Spanish I
-SPA 101 –Elementary Spanish II
+SPA 101 –Elementary Spanish I
+SPA 102 –Elementary Spanish II
+SPA 201 –Intermediate Spanish I
+SPA 202 –Intermediate Spanish II
 SPA 301 –Interpreting Literary and Cultural Texts in Spanish (mentored-teaching)
 SPA 303 –Cultures of Spanish America: “Encuentros y desencuentros latinoamericanos” (mentored-teaching)
+SPA 310 –Topics in Spanish and Spanish American Studies in translation “Theater, Women and Technology in the Americas in the 20th and 21st Century”
 
 Department of Modern Languages and Literatures, University at Albany, SUNY, NY.
 ASPN 101 –Elementary Spanish I
@@ -206,7 +210,16 @@ ASPN 102 –Elementary Spanish II
 
 
 
+
 <sub>PEDAGOGICAL TRAINING</sub> 
+
+January 2026
+EPI 0002 Instructional Strategies, Continuing Education Course completed at Miami Dade College, Miami. 
+
+Teacher Accelerator Program (TAP) | 2026 Teacher Candidate
+•	Completing a 16-week course with over 100 hours of coursework including instructional planning, classroom management, learning theory, and literacy.
+•	Participating in a six-week pre-service teacher training (TAP Summer) in June-July 2026, which includes: hands-on teaching experience with coaching, over 50 hours of classroom instruction, and 120 hours of additional professional development.
+•	Participating in ongoing mentorship and programming designed to facilitate enhanced understanding of pedagogy, theories in the field of education, and community building.
 
 May 2022
 Cengage World Language Focus Group for World Language Courses and Digital Learning. 
